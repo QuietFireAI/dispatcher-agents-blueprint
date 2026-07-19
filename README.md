@@ -1,6 +1,6 @@
 > **This repo is a ratified snapshot of dispatcher-agents' core
 > specification/documentation layer** (not the runtime code, not tests) -
-> snapshotted 2026-07-17 from `dispatcher-agents` commit
+> snapshotted 2026-07-19 from `dispatcher-agents` (post C1 fail-closed loader; 104/104 suite)
 > `6a869d123bdc451e2fd4ed3ab874022065b2356b`. Mirrors the same
 > working-repo/blueprint split already established for listing-agents and
 > freight-agents: the working repo (`dispatcher-agents`) holds the actual
